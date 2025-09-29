@@ -11,7 +11,7 @@ content = """
     <body bgcolor="66CCCC">
             <h1>Web Development</h1>
          <hr>
-         <h2>Device Specification</h2>
+         <h2>Device Specification</h2><h4>(Iswarya-S 25016326)</h4>
          <table border="2" cellpadding="5" cellspacing="10">
             <tr bgcolor="996633">
                 <th>S.no</td>
